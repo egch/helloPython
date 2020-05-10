@@ -1,1 +1,2 @@
-# helloPython
+# hello Python
+Trying to learn python...
